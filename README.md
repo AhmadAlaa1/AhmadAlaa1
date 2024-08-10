@@ -15,7 +15,7 @@
 ### 🌱 Currently Working On:
 
 - 🎨 **Visual Studio Code Theme:**  
-  *Custom theme for Visual Studio Code using CSS* (`MyVisualStudioCodeTheme`)
+  *Custom theme for Visual Studio Code using CSS* 
 
 - 🌐 **Web Development:**  
   *Designing and implementing responsive layouts and interactive features using HTML, CSS, and JavaScript.*
