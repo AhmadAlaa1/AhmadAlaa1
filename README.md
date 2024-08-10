@@ -33,6 +33,17 @@
 
 - ✍️ **Storytelling:**  
   *Channeling creativity through writing and crafting compelling narratives.*
+  
+---
+
+### 🛠️ Languages & Technologies:
+
+- **PHP** 💻
+- **JavaScript** 🌐
+- **HTML** 📝
+- **CSS** 🎨
+- **C++** 🚀
+- **Python** 🐍
 
 ---
 
