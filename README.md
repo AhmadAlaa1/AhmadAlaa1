@@ -4,33 +4,45 @@
 
 ---
 
-🌱 **Currently Working On:**
+### 🌱 Currently Working On:
 
-- 🎨 **Visual Studio Code Theme:** *Custom theme for Visual Studio Code using CSS* (`MyVisualStudioCodeTheme`)
-- 🌐 **Web Development:** *Creating dynamic elements using JavaScript for a navigation bar.*
-- 🔧 **Backend Development:** *Building robust applications with PHP.*
+- 🎨 **Visual Studio Code Theme:**  
+  *Custom theme for Visual Studio Code using CSS* (`MyVisualStudioCodeTheme`)
+
+- 🌐 **Web Development:**  
+  *Creating dynamic elements using JavaScript for a navigation bar.*
+
+- 🔧 **Backend Development:**  
+  *Building robust applications with PHP.*
 
 ---
 
-💻 **My Setup:**
+### 💻 My Setup:
 
 - **OS:** Fedora Linux 🐧
 
 ---
 
-📚 **Interests:**
+### 📚 Interests:
 
-- 🔐 **Networking & Cybersecurity:** *Exploring the world of secure communication and data protection.*
-- 🎮 **Game Development:** *Developing games using Godot and experimenting with game concepts, especially on Linux platforms.*
-- ✍️ **Storytelling:** *Channeling creativity through writing and crafting compelling narratives.*
+- 🔐 **Networking & Cybersecurity:**  
+  *Exploring the world of secure communication and data protection.*
+
+- 🎮 **Game Development:**  
+  *Developing games using Godot and experimenting with game concepts, especially on Linux platforms.*
+
+- ✍️ **Storytelling:**  
+  *Channeling creativity through writing and crafting compelling narratives.*
 
 ---
 
-🚀 **Fun Fact:** I love using my web development skills to weave my stories into interactive experiences.
+### 🚀 Fun Fact:
+
+I love using my web development skills to weave my stories into interactive experiences.
 
 ---
 
-Feel free to connect or check out my work on:
+### 📫 Connect with Me:
 
 - **[GitHub](https://github.com/AhmadAlaa1)** 🐙
 - **[LinkedIn](https://www.linkedin.com/in/ahmad-alaa-3b4b582a4/)** 🌐
