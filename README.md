@@ -18,7 +18,7 @@
   *Custom theme for Visual Studio Code using CSS* (`MyVisualStudioCodeTheme`)
 
 - 🌐 **Web Development:**  
-  *Creating dynamic elements using JavaScript for a navigation bar.*
+  *Designing and implementing responsive layouts and interactive features using HTML, CSS, and JavaScript.*
 
 - 🔧 **Backend Development:**  
   *Building robust applications with PHP.*
