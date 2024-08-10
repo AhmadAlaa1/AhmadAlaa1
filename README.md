@@ -8,7 +8,7 @@
 - **Backend Development**: 🔧 *Building robust applications with PHP.*
 
 💻 **My Setup:**
-- **OS**: Fedora 40 Linux 🐧
+- **OS**: Fedora Linux 🐧
 
 📚 **Interests:**
 - **Networking & Cybersecurity**: 🔐 *Exploring the world of secure communication and data protection.*
