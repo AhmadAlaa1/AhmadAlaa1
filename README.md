@@ -6,7 +6,7 @@
 
 <div align="center">
  
-👨‍💻 **Backend Developer | Aspiring Full-Stack Developer | Linux Enthusiast**
+👨‍💻 **PHP Backend Developer | Aspiring Full-Stack Developer | Linux Enthusiast**
 
 </div>
 
