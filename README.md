@@ -57,7 +57,7 @@
 
 ## 📊 GitHub Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlaa1&layout=compact&langs_count=6&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlaa1&layout=compact&langs_count=10&theme=radical)
 
 ## 🚀 Tools I Use:
 
