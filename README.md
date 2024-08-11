@@ -99,8 +99,8 @@ I love using my web development skills to weave my stories into interactive expe
 
 ### 📫 Connect with Me:
 
-- **[GitHub](https://github.com/AhmadAlaa1)** 🐙
-- **[LinkedIn](https://www.linkedin.com/in/ahmad-alaa-3b4b582a4/)** 🌐
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AhmadAlaa1)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-alaa-3b4b582a4/)
 
 
 <!---
