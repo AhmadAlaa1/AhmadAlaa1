@@ -43,6 +43,7 @@
   *Channeling creativity through writing and crafting compelling narratives.*
   
 ---
+<div align="center">
 
 ## 👨‍💻 Languages & Tools:
 
@@ -55,10 +56,17 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
+</div>
+<div align="center">
+ 
 ## 📊 GitHub Stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlaa1&layout=compact&langs_count=10&theme=radical)
 
+</div>
+
+<div align="center">
+ 
 ## 🚀 Tools I Use:
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -68,6 +76,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+</div>
 
 ---
 
