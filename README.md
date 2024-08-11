@@ -1,16 +1,14 @@
 <div align="center">
 
 # 👋 Hello, I'm **AhmadAlaa**!
-
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmad&color=red)
 </div>
 
 <div align="center">
  
-👨‍💻 **PHP Backend Developer | Aspiring Full-Stack Developer | Linux Enthusiast**
+👨‍💻 **PHP Backend Developer | Aspiring Full-Stack Developer | Linux Enthusiast** 
 
 </div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ahmad&color=blue)
 
 ---
 
