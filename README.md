@@ -10,6 +10,8 @@
 
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmad&color=blue)
+
 ---
 
 ### 🌱 Currently Working On:
