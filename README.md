@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hello, I'm **AhmadAlaa**!
-![Profile Views](https://komarev.com/ghpvc/?username=Ahmad&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=AhmadAlaa1&color=red)
 </div>
 
 <div align="center">
@@ -57,7 +57,7 @@
 
 ## 📊 GitHub Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlaa1&layout=compact&theme=radical)
 
 ## 🚀 Tools I Use:
 
