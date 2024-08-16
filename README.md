@@ -39,8 +39,8 @@
 - 🎮 **Game Development:**  
   *Developing games using Godot and experimenting with game concepts, especially on Linux platforms.*
 
-- ✍️ **Storytelling:**  
-  *Channeling creativity through writing and crafting compelling narratives.*
+- ✏️ **Machine Learning:**
+   *Channeling data-driven creativity to craft compelling and intelligent narratives.*
   
 ---
 <div align="center">
