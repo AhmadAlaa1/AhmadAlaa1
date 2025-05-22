@@ -21,6 +21,9 @@ jobs:
           github_user_name: AhmadAlaa1
           outputs: |
             dist/github-contribution-grid-snake.svg
+          color_snake: "#00ffcc"     
+          color_dots: "#444444,#666666,#888888,#aaaaaa" 
+
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
