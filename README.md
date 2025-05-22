@@ -27,12 +27,16 @@
 
 ### 💻 My Dev Setup
 
+<div align="center">
+
 | Tool         | Configuration                     |
 |--------------|-----------------------------------|
 | **OS**       | Fedora Linux 🐧 (KDE + Hyperland) |
 | **Editor**   | VS Code, PhpStorm, Neovim         |
 | **Terminal** | Warp & Konsole + Starship prompt  |
 | **Theme**    | Nordic + Dracula                  |
+
+</div>
 
 ---
 
