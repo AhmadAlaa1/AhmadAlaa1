@@ -10,10 +10,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://64.media.tumblr.com/2e3a2065db73f2536b9b10f3c25f752d/tumblr_pu1zmbMyjF1w5fh03o1_500.gif" alt="City Night" width="100%" />
-</p>
-
 ---
 
 ### 🚧 Currently Building
@@ -43,6 +39,10 @@
 - 🎮 **Game Development** – Creating pixel art & 2D mechanics on Linux.
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Laravel+backend+developer;Welcome+to+my+GitHub+account!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
+</p>
 
 <div align="center">
 
