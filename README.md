@@ -73,6 +73,8 @@
 ---
 
 ### 🧩 VS Code Extensions I Use
+<div align="center">
+
 
 | Extension                         | Purpose                            |
 |----------------------------------|------------------------------------|
@@ -83,10 +85,13 @@
 | `Better Comments`                | Enhanced comment styling           |
 | `Bracket Pair Colorizer 2`       | Clean visual code navigation       |
 | `REST Client`                    | Test APIs right in VS Code         |
+</div>
 
 ---
 
 ### 🖼️ Wallpapers & Customization
+
+<div align="center">
 
 | Resource                           | Why I Use It                                      |
 |------------------------------------|--------------------------------------------------|
@@ -95,6 +100,7 @@
 | [**RainWallpaper (Linux Alt)**](https://github.com/linuxdeepin/deepin-wm) | Dynamic wallpapers on Linux                        |
 | [**Nordic Theme**](https://github.com/EliverLara/Nordic) | My go-to GTK + Kvantum theme 💙                     |
 
+</div>
 ---
 
 ### 📈 GitHub Stats
