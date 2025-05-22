@@ -78,7 +78,7 @@ Turning ideas into reality using code, coffee ☕, and creativity 🎨
 
 | Extension                         | Purpose                            |
 |----------------------------------|------------------------------------|
-| `Dracula Official`               | Dark theme                         |
+| `Nordic`               | Dark theme                         |
 | `vscode-icons`                   | Pretty icons everywhere            |
 | `Live Server`                    | Instant frontend preview           |
 | `Prettier`                       | Code formatting                    |
