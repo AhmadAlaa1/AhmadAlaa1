@@ -2,6 +2,10 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmadAlaa1&color=red)
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/0e/e0/56/0ee0569ab3dc78f4ecedaedcf03a3df2.gif" alt="Pixel Art Cityscape" width="100%" />
+</p>
+
 # 🧑‍💻 Ahmad Alaa
 
 🐘 **PHP Backend Developer | Aspiring Full-Stack Dev | Linux & Cybersecurity Enthusiast**
