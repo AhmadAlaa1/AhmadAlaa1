@@ -44,6 +44,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AhmadAlaa1/AhmadAlaa1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
 <div align="center">
 
 ## 🧰 Languages & Tools
