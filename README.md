@@ -89,20 +89,6 @@
 
 ---
 
-### 🖼️ Wallpapers & Customization
-
-<div align="center">
-
-| Resource                           | Why I Use It                                      |
-|------------------------------------|--------------------------------------------------|
-| [**Wallhaven**](https://wallhaven.cc)     | HQ anime/dev wallpapers 🎌                       |
-| [**Plasma Look & Feel**](https://store.kde.org/) | KDE themes, cursors, icons                         |
-| [**RainWallpaper (Linux Alt)**](https://github.com/linuxdeepin/deepin-wm) | Dynamic wallpapers on Linux                        |
-| [**Nordic Theme**](https://github.com/EliverLara/Nordic) | My go-to GTK + Kvantum theme 💙                     |
-
-</div>
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
