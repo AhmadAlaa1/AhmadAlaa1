@@ -10,7 +10,7 @@
 
 🐘 **PHP Backend Developer | Aspiring Full-Stack Dev | Linux & Cybersecurity Enthusiast**
 
-✨ Turning ideas into reality using code, coffee ☕, and creativity 🎨
+Turning ideas into reality using code, coffee ☕, and creativity 🎨
 
 </div>
 
@@ -31,10 +31,10 @@
 
 | Tool         | Configuration                     |
 |--------------|-----------------------------------|
-| **OS**       | Fedora Linux 🐧 (KDE + Hyperland) |
+| **OS**       | Fedora Linux 🐧 |
 | **Editor**   | VS Code, PhpStorm, Neovim         |
-| **Terminal** | Warp & Konsole + Starship prompt  |
-| **Theme**    | Nordic + Dracula                  |
+| **Terminal** | Warp & Konsole |
+| **Theme**    | Nordic         |
 
 </div>
 
@@ -104,18 +104,7 @@
 
 <p align="center">
   <a href="https://github.com/AhmadAlaa1"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ahmad-alaa-3b4b582a4/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmad-alaa"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
-
-### 💬 Fun Fact
-
-> I love turning stories into interactive digital journeys. Code is not just syntax — it’s my storytelling tool. ✨
-
----
-
-<!---
-AhmadAlaa1/AhmadAlaa1 is a ✨ special ✨ repo because its `README.md` appears on your profile.
-Click the Preview link to check it out!
---->
