@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmadAlaa1&color=red)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Laravel+backend+developer;Welcome+to+my+GitHub+account!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Laravel+backend+developer;Welcome+to+my+GitHub+account!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FE7743" alt="Typing SVG">
 </p>
 
 🐘 **PHP Backend Developer | Aspiring Full-Stack Dev | Linux & Cybersecurity Enthusiast**
